@@ -1,0 +1,15 @@
+Parcel
+Dev Build
+Caching faster builds
+HMR - hot module replacement
+File watching algorithm
+Image optimization
+Local server
+minification of file sin production
+Bundling
+compress files
+code splitting
+differential Bundling
+consistent hashing - support in older browsers
+Tree shaking - remove unused code
+
