@@ -1,1 +1,7 @@
 JSX is HTML like syntax
+it is a syntax for creating React elements
+JSX is not a valid javascript syntax, since JS engine understands 
+ecmascript 6 
+Babel takes JSX code and coverts into react elements
+JSX ->  React.createElement -> ReactElement -> HTMLElement
+Function component is a normal javascript function that returns some JSX
